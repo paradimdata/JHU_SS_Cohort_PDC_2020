@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/272296461.svg)](https://zenodo.org/badge/latestdoi/272296461)
+
 ## Materials Data Science Tools for Novel Phenomena
 
 #### Welcome to the GitHub repo for the 2020 PARADIM Summer School, "Hands-Off Hands-On"... our virtual way of providing hands-on content during this Summer of Social Distancing.  This repo will be used all week.  Please clone it to your laptop and pull it regularly.
